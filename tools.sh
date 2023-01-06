@@ -1,0 +1,2 @@
+#Check hardware specification
+lscpu
